@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: boardgamesearch
+
+springdoc:
+  swagger-ui:
+    path: /docs
